@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/webos_ssupercar_ui/precache-manifest.fcb1e26d41086127ea833487d2f0517d.js"
+  "/webos_ssupercar_ui/precache-manifest.2971ae5a74296d8a08544798ea6659d1.js"
 );
 
 self.addEventListener('message', (event) => {
