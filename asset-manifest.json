@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webos_ssupercar_ui/static/css/main.b1d125d1.chunk.css",
-    "main.js": "/webos_ssupercar_ui/static/js/main.58bf4d87.chunk.js",
-    "main.js.map": "/webos_ssupercar_ui/static/js/main.58bf4d87.chunk.js.map",
+    "main.js": "/webos_ssupercar_ui/static/js/main.eeaf8e08.chunk.js",
+    "main.js.map": "/webos_ssupercar_ui/static/js/main.eeaf8e08.chunk.js.map",
     "runtime-main.js": "/webos_ssupercar_ui/static/js/runtime-main.53fa7036.js",
     "runtime-main.js.map": "/webos_ssupercar_ui/static/js/runtime-main.53fa7036.js.map",
     "static/js/2.70134ac8.chunk.js": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js",
     "static/js/2.70134ac8.chunk.js.map": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js.map",
     "index.html": "/webos_ssupercar_ui/index.html",
-    "precache-manifest.2971ae5a74296d8a08544798ea6659d1.js": "/webos_ssupercar_ui/precache-manifest.2971ae5a74296d8a08544798ea6659d1.js",
+    "precache-manifest.d82cd41373c5003ff00e46a08eae17c4.js": "/webos_ssupercar_ui/precache-manifest.d82cd41373c5003ff00e46a08eae17c4.js",
     "service-worker.js": "/webos_ssupercar_ui/service-worker.js",
     "static/css/main.b1d125d1.chunk.css.map": "/webos_ssupercar_ui/static/css/main.b1d125d1.chunk.css.map",
     "static/js/2.70134ac8.chunk.js.LICENSE.txt": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.53fa7036.js",
     "static/js/2.70134ac8.chunk.js",
     "static/css/main.b1d125d1.chunk.css",
-    "static/js/main.58bf4d87.chunk.js"
+    "static/js/main.eeaf8e08.chunk.js"
   ]
 }
