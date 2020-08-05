@@ -13,8 +13,8 @@ class App extends React.Component {
       <BrowserRouter>
         <Route path="/webos_ssupercar_ui/" exact={true} component={Home} />
         <Route path="/webos_ssupercar_ui/menu1" exact={true} component={Menu1} />
-        <Route path="/webos_ssupercar_ui//menu2" exact={true} component={Menu2} />
-        <Route path="/webos_ssupercar_ui//menu3" exact={true} component={Menu3} />
+        <Route path="/webos_ssupercar_ui/menu2" exact={true} component={Menu2} />
+        <Route path="/webos_ssupercar_ui/menu3" exact={true} component={Menu3} />
       </BrowserRouter>
       
     );
