@@ -125,7 +125,7 @@ class Home extends React.Component {
                         <div className="right-menu-1">
                             <div className="right-menu-padding-1">
                                 <Link className="right-link" to={{
-                                    pathname:"/menu1",
+                                    pathname:"/webos_ssupercar_ui/menu1",
                                     state: {
                                         checkbox:this.state.Menu1
                                     }
@@ -140,7 +140,7 @@ class Home extends React.Component {
                         <div className="right-menu-2">
                             <div className="right-menu-padding-2">
                                 <Link className="right-link" to={{
-                                    pathname:"/menu2",
+                                    pathname:"/webos_ssupercar_ui/menu2",
                                     state: {
                                         checkbox:this.state.Menu2
                                     }
@@ -155,7 +155,7 @@ class Home extends React.Component {
                         <div className="right-menu-3">
                             <div className="right-menu-padding-3">
                                 <Link className="right-link" to={{
-                                    pathname:"/menu3",
+                                    pathname:"/webos_ssupercar_ui/menu3",
                                     state: {
                                         checkbox:this.state.Menu3,
                                     }
