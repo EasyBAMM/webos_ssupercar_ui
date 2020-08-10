@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webos_ssupercar_ui/static/css/main.b1d125d1.chunk.css",
+    "main.css": "/webos_ssupercar_ui/static/css/main.bd71935c.chunk.css",
     "main.js": "/webos_ssupercar_ui/static/js/main.eeaf8e08.chunk.js",
     "main.js.map": "/webos_ssupercar_ui/static/js/main.eeaf8e08.chunk.js.map",
     "runtime-main.js": "/webos_ssupercar_ui/static/js/runtime-main.53fa7036.js",
@@ -8,16 +8,16 @@
     "static/js/2.70134ac8.chunk.js": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js",
     "static/js/2.70134ac8.chunk.js.map": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js.map",
     "index.html": "/webos_ssupercar_ui/index.html",
-    "precache-manifest.d82cd41373c5003ff00e46a08eae17c4.js": "/webos_ssupercar_ui/precache-manifest.d82cd41373c5003ff00e46a08eae17c4.js",
+    "precache-manifest.86b0e93f759feb0edc5b39a8f36c32fd.js": "/webos_ssupercar_ui/precache-manifest.86b0e93f759feb0edc5b39a8f36c32fd.js",
     "service-worker.js": "/webos_ssupercar_ui/service-worker.js",
-    "static/css/main.b1d125d1.chunk.css.map": "/webos_ssupercar_ui/static/css/main.b1d125d1.chunk.css.map",
+    "static/css/main.bd71935c.chunk.css.map": "/webos_ssupercar_ui/static/css/main.bd71935c.chunk.css.map",
     "static/js/2.70134ac8.chunk.js.LICENSE.txt": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js.LICENSE.txt",
     "static/media/sign1.png": "/webos_ssupercar_ui/static/media/sign1.10ce37aa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.53fa7036.js",
     "static/js/2.70134ac8.chunk.js",
-    "static/css/main.b1d125d1.chunk.css",
+    "static/css/main.bd71935c.chunk.css",
     "static/js/main.eeaf8e08.chunk.js"
   ]
 }

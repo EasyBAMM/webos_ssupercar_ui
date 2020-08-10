@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5e01c50e7ffff82705be31934ddaa6e",
+    "revision": "0156574ccda59d0bea6cf8068eadf05f",
     "url": "/webos_ssupercar_ui/index.html"
   },
   {
-    "revision": "292738cefa1ef0102bfa",
-    "url": "/webos_ssupercar_ui/static/css/main.b1d125d1.chunk.css"
+    "revision": "97993c2cb0e6bf24706a",
+    "url": "/webos_ssupercar_ui/static/css/main.bd71935c.chunk.css"
   },
   {
     "revision": "d3e2f078868fbf669cf8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "292738cefa1ef0102bfa",
+    "revision": "97993c2cb0e6bf24706a",
     "url": "/webos_ssupercar_ui/static/js/main.eeaf8e08.chunk.js"
   },
   {
