@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0156574ccda59d0bea6cf8068eadf05f",
+    "revision": "4bfdfc54356a8e5ccce650ae42132de5",
     "url": "/webos_ssupercar_ui/index.html"
   },
   {
-    "revision": "97993c2cb0e6bf24706a",
-    "url": "/webos_ssupercar_ui/static/css/main.bd71935c.chunk.css"
+    "revision": "90fe0b8ff86f9db74ace",
+    "url": "/webos_ssupercar_ui/static/css/main.d9680184.chunk.css"
   },
   {
-    "revision": "d3e2f078868fbf669cf8",
-    "url": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js"
+    "revision": "8b6651cb7e3f06cbfd68",
+    "url": "/webos_ssupercar_ui/static/js/2.3dac7845.chunk.js"
   },
   {
     "revision": "23ec6c7f0411a6141095a6c739b32980",
-    "url": "/webos_ssupercar_ui/static/js/2.70134ac8.chunk.js.LICENSE.txt"
+    "url": "/webos_ssupercar_ui/static/js/2.3dac7845.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97993c2cb0e6bf24706a",
-    "url": "/webos_ssupercar_ui/static/js/main.eeaf8e08.chunk.js"
+    "revision": "90fe0b8ff86f9db74ace",
+    "url": "/webos_ssupercar_ui/static/js/main.f3ab0b40.chunk.js"
   },
   {
     "revision": "e105b5c2066bf93c2c79",
